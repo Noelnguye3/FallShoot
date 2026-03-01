@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"gameOverSound",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.2960091,
+  "exportDir":"",
+  "name":"gameOverSound",
+  "parent":{
+    "name":"oButtons",
+    "path":"folders/Objects/oButtons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"gameOverSound.mp3",
+  "volume":1.0,
+}
