@@ -1,0 +1,1 @@
+audio_play_sound(backGroundMusic, 0, true, 1.25)
